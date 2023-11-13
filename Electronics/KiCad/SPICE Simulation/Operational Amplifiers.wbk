@@ -1,0 +1,23 @@
+version 2
+1
+1
+.ac dec 10 1 100k{return}{return}{return}.kicad adjustpaths{return}.save all{return}.probe alli
+6
+9
+V(IN)
+ 
+5
+V(IN)
+ 
+9
+V(Net-_C1-Pad1_)
+ 
+5
+V(Net-_C1-Pad1_)
+ 
+9
+V(OUT)
+ 
+5
+V(OUT)
+ 
